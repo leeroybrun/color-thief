@@ -1,13 +1,12 @@
 {
-  "name": "color-thief",
+  "name": "color-thief-browser",
   "version": "2.0.1",
-  "private": true,
   "author": {
     "name": "Lokesh Dhakar",
     "email": "lokesh.dhakar@gmail.com",
     "url": "http://lokeshdhakar.com/"
   },
-  "description": "Get the dominant color or color palette from an image.",
+  "description": "Get the dominant color or color palette from an image (Browser version).",
   "keywords": [
     "color",
     "palette",
